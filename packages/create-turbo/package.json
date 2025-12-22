@@ -28,7 +28,7 @@
     "inquirer": "8.2.4",
     "picocolors": "1.0.1",
     "proxy-agent": "6.5.0",
-    "semver": "7.5.0",
+    "semver": "7.5.2",
     "update-check": "1.5.4"
   },
   "devDependencies": {
