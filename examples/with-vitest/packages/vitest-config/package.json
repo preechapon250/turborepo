@@ -23,7 +23,7 @@
     "@repo/typescript-config": "workspace:*",
     "@vitest/coverage-istanbul": "^3.2.4",
     "@vitest/ui": "3.0.7",
-    "glob": "^11.0.1",
+    "glob": "^12.0.0",
     "jsdom": "^26.0.0",
     "nyc": "^17.1.0",
     "typescript": "latest"
